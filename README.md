@@ -1,2 +1,2 @@
 # python
-python for DataScience and data visualization
+python for DataScience and visualization
